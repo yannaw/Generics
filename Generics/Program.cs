@@ -10,6 +10,8 @@ namespace Generics {
             Console.WriteLine(Utils.Clamp(1,2,3));
             var pair = new Pair(4,8);
 
+
+
         }
     }
 }
